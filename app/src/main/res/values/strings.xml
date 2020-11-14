@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bohar</string>
+    <string name="forgot_password" />
+    <string name="new_here_create_account" />
+    <string name="login" />
+    <string name="password" />
+    <string name="create_new_account" />
+    <string name="email" />
+    <string name="full_name" />
+    <string name="phone" />
+    <string name="register" />
+    <string name="already_registered_login_here" />
+</resources>

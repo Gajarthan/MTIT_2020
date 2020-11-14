@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605156524251",
+    "firebase_url": "https://bohar-845c3.firebaseio.com",
+    "project_id": "bohar-845c3",
+    "storage_bucket": "bohar-845c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605156524251:android:1d444f31a65037b5eb8cfe",
+        "android_client_info": {
+          "package_name": "it17091244.mad.sliit.bohar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605156524251-kkfsadaqdmskjcq5gcak2rv7a3619ugs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFvTzUQ9M8NxryuL6p17amdLZRX1_Epo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605156524251-kkfsadaqdmskjcq5gcak2rv7a3619ugs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
